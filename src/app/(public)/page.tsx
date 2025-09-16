@@ -8,13 +8,9 @@ export default function Home() {
     <>
       <HomeSlider />
       <GalleryCategories></GalleryCategories>
- <Incentives></Incentives>
- <FeaturedCategories></FeaturedCategories>
+      <Incentives></Incentives>
+      <FeaturedCategories></FeaturedCategories>
       <ViewProduct></ViewProduct>
-
-     
-      
-     
     </>
   );
 }
